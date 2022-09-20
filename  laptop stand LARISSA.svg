@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.15 822.08">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #e62e2b;
+        stroke-miterlimit: 10;
+        stroke-width: .03px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #1d1d1b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 38.5px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M8.52,822.06h127.56l106.07-70.71c3.19-2.12,4.56-6.11,3.36-9.75L24.61,74.32,112.71,15.59C119.71,10.93,116.4,.01,107.99,.01H8.52C3.82,.01,.01,3.82,.01,8.52V406.79H70.88v8.5H.01v398.27c0,4.7,3.81,8.5,8.5,8.5Z"/>
+  <path class="cls-2" d="M247.54,747.75l-88.09,58.73c-7,4.67-3.7,15.58,4.72,15.58h99.47c4.7,0,8.5-3.81,8.5-8.5V8.52c0-4.7-3.81-8.5-8.5-8.5h-127.56l-21.62,14.51"/>
+  <polyline class="cls-2" points="137.48 415.29 205.81 415.29 205.81 406.79 134.67 406.79"/>
+  <text class="cls-3" transform="translate(226.79 13.57) rotate(90) scale(1.07 1)"><tspan x="0" y="0">LFT</tspan></text>
+</svg>
